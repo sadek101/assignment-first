@@ -1,0 +1,159 @@
+section{
+    margin-bottom: 60px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.10);
+    height: 600px;
+    width: auto;
+    
+}
+.header-title{
+    margin-left: 180px;
+}
+.title{
+    font-size: 60px;
+    font-weight: 800;
+    
+    
+}
+
+.header-info{
+    margin-right: 180px;
+}
+.info{
+    margin-right: 33px;
+}
+.that{
+    height: 600px;
+    width: auto;
+}
+.btn-primary{
+    font-size: 16px;
+    padding: 10px 33px;
+    background: #E55473;
+    border: none;
+    border-radius: 10px;
+}
+/*  about us  */
+.main-title-w{
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+.about-shop{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.offline-pay{
+  margin: 0 120px 0 420px;
+}
+.title-m{
+  height: 450px;
+  width: auto;
+  margin: 0 30px 0 120px;
+}
+
+ /*     main     */
+ .main{
+    text-align: center;
+    
+ }
+ .main-title{
+    font-size: 24px;
+    font-weight: 800;
+    color: #272727;
+ }
+ .main-info{
+    font-size: 12px;
+    color: #272727;
+ }
+ /* flower style  */
+ .flower{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    
+ }
+ .title-e{
+    height: 200px;
+    width: 150px;
+    background: rgba(167, 33, 98, 0.15);
+     border-radius: 300px 300px 0px 0px;
+     padding: 15px 15px 0 15px;
+ }
+ .title-d{
+    color: #272727;
+font-size: 10px;
+    text-decoration-line: underline;
+    text-align: center;
+ }
+ 
+    
+ 
+   /*  middle   */
+.middle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(229, 84, 115, 0.05);
+    ;
+    gap: 70px;
+}
+.middle-title{
+    text-align: center;
+}
+ .set{
+    color: red;
+ }
+ .sef{
+    height: 200px;
+    width: 150px;
+ }
+  /*    instagram    */
+  .instgram{
+    text-align: center;
+  }
+  .gelary{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 13px;
+  }
+  /*  last  */
+  .email{
+    border: none;
+    height: 40px;
+    width: 700px;
+    border-radius: 10px;
+    
+  }
+  .last-section{
+    background-image: url(rectangle\ 9.png);
+    background-size: cover;
+    height: 270px;
+    text-align: center;
+    padding-top: 80px;
+    width: 80%;
+    margin: auto;
+  }
+  .footer{
+    background-color: #272727;
+    color: white;
+    height: 150px;
+    text-align: center;
+    padding-top: 40px;
+  }
+  .main-info-r{
+    font-size: 11px;
+    font-weight: 400;
+    color: white;
+  }
+  .ses{
+    font-size: 7px;
+    color: rgba(255, 255, 255, 0.40);;
+  }
